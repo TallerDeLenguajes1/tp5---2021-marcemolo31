@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tp1-armella", "tp1-armella\tp1-armella.csproj", "{ED42BB71-E27B-4BB3-8F21-C7976CBD1230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ED42BB71-E27B-4BB3-8F21-C7976CBD1230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED42BB71-E27B-4BB3-8F21-C7976CBD1230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED42BB71-E27B-4BB3-8F21-C7976CBD1230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED42BB71-E27B-4BB3-8F21-C7976CBD1230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F8F795A-1960-4113-9896-222D13DE67E4}
+	EndGlobalSection
+EndGlobal

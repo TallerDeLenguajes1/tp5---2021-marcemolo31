@@ -1,0 +1,13 @@
+C:\proyecto-tdl\tp5\tp5---2021-marcemolo31\tp1-armella\tp1-armella\bin\Debug\netcoreapp3.1\tp1-armella.exe
+C:\proyecto-tdl\tp5\tp5---2021-marcemolo31\tp1-armella\tp1-armella\bin\Debug\netcoreapp3.1\tp1-armella.deps.json
+C:\proyecto-tdl\tp5\tp5---2021-marcemolo31\tp1-armella\tp1-armella\bin\Debug\netcoreapp3.1\tp1-armella.runtimeconfig.json
+C:\proyecto-tdl\tp5\tp5---2021-marcemolo31\tp1-armella\tp1-armella\bin\Debug\netcoreapp3.1\tp1-armella.runtimeconfig.dev.json
+C:\proyecto-tdl\tp5\tp5---2021-marcemolo31\tp1-armella\tp1-armella\bin\Debug\netcoreapp3.1\tp1-armella.dll
+C:\proyecto-tdl\tp5\tp5---2021-marcemolo31\tp1-armella\tp1-armella\bin\Debug\netcoreapp3.1\tp1-armella.pdb
+C:\proyecto-tdl\tp5\tp5---2021-marcemolo31\tp1-armella\tp1-armella\obj\Debug\netcoreapp3.1\tp1-armella.csprojAssemblyReference.cache
+C:\proyecto-tdl\tp5\tp5---2021-marcemolo31\tp1-armella\tp1-armella\obj\Debug\netcoreapp3.1\tp1-armella.AssemblyInfoInputs.cache
+C:\proyecto-tdl\tp5\tp5---2021-marcemolo31\tp1-armella\tp1-armella\obj\Debug\netcoreapp3.1\tp1-armella.AssemblyInfo.cs
+C:\proyecto-tdl\tp5\tp5---2021-marcemolo31\tp1-armella\tp1-armella\obj\Debug\netcoreapp3.1\tp1-armella.csproj.CoreCompileInputs.cache
+C:\proyecto-tdl\tp5\tp5---2021-marcemolo31\tp1-armella\tp1-armella\obj\Debug\netcoreapp3.1\tp1-armella.dll
+C:\proyecto-tdl\tp5\tp5---2021-marcemolo31\tp1-armella\tp1-armella\obj\Debug\netcoreapp3.1\tp1-armella.pdb
+C:\proyecto-tdl\tp5\tp5---2021-marcemolo31\tp1-armella\tp1-armella\obj\Debug\netcoreapp3.1\tp1-armella.genruntimeconfig.cache
